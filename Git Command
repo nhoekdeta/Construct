@@ -8,3 +8,11 @@ Git Command You should now.
 6. git commit -m "Message or Description to the file"(to commit the new file to repository in github)
 7. git add -A               (to add all file or directory to tracked list)
 8  Esc -> wq                (to exit the commit prompt when you didn't give the message -m to it)
+9. git init REPOSITORY_NAME (to create a new Repository)
+10. mkdir PROJECT_FOLDER    (to create a project folder inside Repository)
+11. mv REPOSITORY_NAME NEW_REPOSITORY_NAME  (rename your repository name{make sure that use this command inside the repository folder}
+12. rm FILE_NAME            (to remove file)
+13. git config --global user.name "Nhoek Deta"
+14. git config --global user.email "nhoek.deta@gmail.com"
+15. git commit -a -m "MESSAGE"  (commit all change to git with a given message)
+
