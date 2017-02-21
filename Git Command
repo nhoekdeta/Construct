@@ -15,4 +15,6 @@ Git Command You should now.
 13. git config --global user.name "Nhoek Deta"
 14. git config --global user.email "nhoek.deta@gmail.com"
 15. git commit -a -m "MESSAGE"  (commit all change to git with a given message)
-
+16. git branch BRANCH_NAME  (to create a new branch)
+17. git branch              (list all branch)
+18. git checkout BRANCH_NAME(change branch to BRANCH_NAME)
