@@ -8,3 +8,4 @@ Git Command You should now.
 6. git commit -m "Message or Description to the file"(to commit the new file to repository in github)
 7. git add -A               (to add all file or directory to tracked list)
 8  Esc -> wq                (to exit the commit prompt when you didn't give the message -m to it)
+I want to add something new here. and you
