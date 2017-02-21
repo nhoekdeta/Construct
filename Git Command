@@ -5,5 +5,5 @@ Git Command You should now.
 3. git ls                   (to list all files and directories in this directory)
 4. git status               (to check the file that tracked or not before we add to tracked list)
 5. git add FILE_NAME        (to add file or directory to tracked list)
-6. git commit -m "FILE_NAME"(to commit the new file to repository in github)
+6. git commit -m "Message or Description to the file"(to commit the new file to repository in github)
 7. git add -A               (to add all file or directory to tracked list)
